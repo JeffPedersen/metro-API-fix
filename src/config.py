@@ -6,7 +6,7 @@ config = {
 	#########################
 
 	# WIFI Network SSID
-	'wifi_ssid': '<Your 2.4ghz WiFi SSID>',
+	'wifi_ssid': '<Your WiFi Name>',
 
 	# WIFI Password
 	'wifi_password': '<Your WiFi Password>',
